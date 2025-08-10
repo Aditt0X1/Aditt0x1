@@ -1,10 +1,21 @@
-# Aditto Khandaker
-**Security Researcher || Red Teamer || Epistemophiliac**
+# 👋 Hey there, I’m Aditto Khandaker
+**Security Researcher | Red Teamer | Epistemophiliac**
 
-- 🔭 **I’m currently working on:** Web Application Security
-- 💬 **Ask me about:** Collaboration, Security Development
-- 📫 **How to reach me:** X / LinkedIn / adittokhandaker@gmail.com
-- ⚡ **Fun fact:** I Love Learning New things and break them
+**🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
+Curiosity drives me to understand systems and persistence drives me to break them**
+
+🔭 **I’m currently working on:**  
+$Web Application Security & Penetration Testing   
+$Exploring attack surfaces & security automation  
+$Researching modern threat vectors and red team tactics
+
+💬 **Let’s Talk About:**  
+#Collaboration on Security Research Projects  
+#Bug Bounty Hunting & Red Teaming  
+#Security Automation & Scripting  
+
+📫 **How to reach me:** X / LinkedIn / adittokhandaker@gmail.com  
+⚡ **Fun fact:** I'm a thrill-seeker at heart, always on the lookout for the next exciting experience. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adittokhandaker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aditt0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adittokhandaker) 
