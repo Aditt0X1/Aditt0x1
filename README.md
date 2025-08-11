@@ -5,6 +5,8 @@
 **🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
 Curiosity drives me to understand systems and persistence drives me to break them**
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 🔭 **I’m currently working on:**  
 $Web Application Security & Penetration Testing   
 $Exploring attack surfaces & security automation  
