@@ -7,7 +7,7 @@
 **🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
 Curiosity drives me to understand systems and persistence drives me to break them**
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" min-width="200px" max-width="200px" width="250px" align="right"> 
+<img src="https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/85/1487781835.737animation3.gif/revision/latest?cb=20170222164551" min-width="200px" max-width="200px" width="250px" align="right"> 
 
 🔭 **I’m currently working on:**  
 $Web Application Security & Penetration Testing   
