@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B+I'm+Aditto+Khandaker)](https://git.io/typing-svg)
 
-
+<img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 **Security Researcher | Red Teamer | Epistemophiliac**
+<img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px"></a>
 
 **🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
 Curiosity drives me to understand systems and persistence drives me to break them**
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="200px" max-width="200px" width="250px" align="right"> 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" min-width="200px" max-width="200px" width="250px" align="right"> 
 
 🔭 **I’m currently working on:**  
 $Web Application Security & Penetration Testing   
