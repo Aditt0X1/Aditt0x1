@@ -7,7 +7,7 @@
 **🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
 Curiosity drives me to understand systems and persistence drives me to break them**
 
-<img src="https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/85/1487781835.737animation3.gif/revision/latest?cb=20170222164551" min-width="200px" max-width="200px" width="250px" align="right"> 
+<img src="https://i.redd.it/j0331i0rz7ub1.gif" min-width="200px" max-width="200px" width="250px" align="right"> </br>
 
 🔭 **I’m currently working on:**  
 $Web Application Security & Penetration Testing   
@@ -20,7 +20,8 @@ $Researching modern threat vectors and red team tactics
 #Security Automation & Scripting  
 
 📫 **How to reach me:** X / LinkedIn / adittokhandaker@gmail.com  
-⚡ **Fun fact:** I'm a thrill-seeker at heart, always on the lookout for the next exciting experience. 
+⚡ **Fun fact:** I'm a thrill-seeker at heart, always on the lookout for the next exciting experience.   
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adittokhandaker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aditt0x1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adittokhandaker) 
