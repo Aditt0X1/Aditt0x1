@@ -7,12 +7,12 @@
 **🚀 Passionate about uncovering vulnerabilities, securing systems, and pushing the boundaries.
 Curiosity drives me to understand systems and persistence drives me to break them**
 
-<img src="https://i.redd.it/j0331i0rz7ub1.gif" min-width="200px" max-width="200px" width="250px" align="right"> </br>
+<img src="https://i.redd.it/j0331i0rz7ub1.gif" min-width="230px" max-width="230px" width="280px" align="right"> </br>
 
 🔭 **I’m currently working on:**  
 $Web Application Security & Penetration Testing   
 $Exploring attack surfaces & security automation  
-$Researching modern threat vectors and red team tactics
+$Researching modern threat vectors and red team tactics</br>
 
 💬 **Let’s Talk About:**  
 #Collaboration on Security Research Projects  
